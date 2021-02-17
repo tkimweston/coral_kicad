@@ -4,4 +4,4 @@ This repository contains the kicad footprint and symbol for the Google Coral Acc
 <br>It is my first attempt commiting kicad library and footprint files to github.  Contact me if you find any issues downloading and using the files.
 
 MIT License
-(C) 2021 Jae Hyun (Tony) Kim
+©️ Jae Hyun (Tony) Kim
